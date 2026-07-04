@@ -2,7 +2,7 @@ export const wedding = {
   couple: "Pauli & Martín",
   eventDate: "2026-10-31T22:00:00-03:00",
   civil: {
-    date: "A confirmar",
+    date: "28 de Octubre de 2026",
     time: "--",
     place: "pendiente",
     address: "A confirmar",
@@ -10,7 +10,7 @@ export const wedding = {
   },
   ceremony: {
     date: "31 de octubre de 2026",
-    time: "19:30 hs",
+    time: "A confirmar",
     place: "Parroquia Nuestra Sra. del Carmen",
     address: "Av. Padre Respuela 155, Junín, Buenos Aires",
     maps: "https://maps.app.goo.gl/8JuRK41utiF69XuU9",

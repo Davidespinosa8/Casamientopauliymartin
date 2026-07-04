@@ -60,11 +60,29 @@ export default function Home() {
       </section>
 
       <section className="paperSection centeredSection">
-        <FadeIn><Gift size={34} strokeWidth={1.4}/><p className="scriptTitle">Regalos</p><p>Tu presencia es nuestro mejor regalo, pero si querés hacernos un obsequio, podés hacerlo mediante transferencia bancaria.</p><div className="bankBox"><strong>Alias</strong><span>martin.alcala1989</span><strong>Titular</strong><span>Juan Martin Alcala Diaz</span><strong>CBU</strong><span>0000003100049615996232</span></div></FadeIn>
+        <FadeIn><Gift size={34} strokeWidth={1.4}/><p className="scriptTitle">Regalos</p><p>Tu presencia es nuestro mejor regalo, pero si querés hacernos un obsequio, podés hacerlo mediante transferencia bancaria.</p><div className="bankBox"><strong>Alias</strong><span>martin.alcala.1989</span><strong>Titular</strong><span>Juan Martin Alcala Diaz</span><strong>CBU</strong><span>0000003100049615996232</span></div></FadeIn>
       </section>
 
       <section className="albumSection darkSection centeredSection">
-        <FadeIn><Camera size={38} strokeWidth={1.4}/><p className="scriptTitle">Álbum compartido</p><p>Subí tus fotos y videos del evento para que todos podamos revivir cada momento.</p><button className="button buttonLight">Subir fotos</button></FadeIn>
+        <FadeIn>
+          <Camera size={38} strokeWidth={1.4} />
+
+          <p className="scriptTitle">Álbum compartido</p>
+
+          <p>
+            Subí tus fotos y videos del evento para que todos podamos revivir cada
+            momento.
+          </p>
+
+          <a
+            href="https://drive.google.com/drive/folders/1PzkB9HBQg1Rd9GiB25zA3a_DFKl2U8o_"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="button buttonLight"
+          >
+            Subir fotos
+          </a>
+        </FadeIn>
       </section>
 
       <section className="paperSection rsvpSection">
