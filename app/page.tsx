@@ -60,7 +60,7 @@ export default function Home() {
       </section>
 
       <section className="paperSection centeredSection">
-        <FadeIn><Gift size={34} strokeWidth={1.4}/><p className="scriptTitle">Regalos</p><p>Tu presencia es nuestro mejor regalo, pero si querés hacernos un obsequio, podés hacerlo mediante transferencia bancaria.</p><div className="bankBox"><strong>Alias</strong><span>PAULIYMARTIN</span><strong>Titular</strong><span>Paulina Antoneda</span><strong>CBU</strong><span>000 1111 2222 3333 4444 5</span></div></FadeIn>
+        <FadeIn><Gift size={34} strokeWidth={1.4}/><p className="scriptTitle">Regalos</p><p>Tu presencia es nuestro mejor regalo, pero si querés hacernos un obsequio, podés hacerlo mediante transferencia bancaria.</p><div className="bankBox"><strong>Alias</strong><span>martin.alcala1989</span><strong>Titular</strong><span>Juan Martin Alcala Diaz</span><strong>CBU</strong><span>0000003100049615996232</span></div></FadeIn>
       </section>
 
       <section className="albumSection darkSection centeredSection">
