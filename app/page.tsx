@@ -52,10 +52,9 @@ export default function Home() {
         <FadeIn><h2>Frases que nos representan</h2></FadeIn>
         {[
           "Que todas las noches sean noches de boda.",
-          "El amor también se baila.",
-          "El amor es nuestra mejor revolución.",
-          "Esta noche el amor sube el volumen.",
-          "Vamos a hacer ruido, a brindar y a bailar hasta el final.",
+          "Nada como ir juntos a la par",
+          "Te miro fijo y me sonreis, no pierdo un dia lejos de ti, mi chance es hoy",
+          "Entre acordes y letras de amor siempre te llevaré",
         ].map((quote, index) => <FadeIn key={quote} delay={index * .05}><p className="quote">“{quote}”</p></FadeIn>)}
       </section>
 
