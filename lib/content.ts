@@ -3,14 +3,14 @@ export const wedding = {
   eventDate: "2026-10-31T22:00:00-03:00",
   civil: {
     date: "28 de Octubre de 2026",
-    time: "--",
+    time: "11:00 hs",
     place: "pendiente",
     address: "A confirmar",
     maps: "--",
   },
   ceremony: {
     date: "31 de octubre de 2026",
-    time: "A confirmar",
+    time: "20:30 hs",
     place: "Parroquia Nuestra Sra. del Carmen",
     address: "Av. Padre Respuela 155, Junín, Buenos Aires",
     maps: "https://maps.app.goo.gl/8JuRK41utiF69XuU9",
