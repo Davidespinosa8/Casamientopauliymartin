@@ -4,9 +4,9 @@ export const wedding = {
   civil: {
     date: "28 de Octubre de 2026",
     time: "11:00 hs",
-    place: "pendiente",
-    address: "A confirmar",
-    maps: "--",
+    place: "Registro Civil II",
+    address: "Primera Junta 720, Junín, Buenos Aires",
+    maps: "https://www.google.com/maps/search/?api=1&query=Registro+Civil+II+Primera+Junta+720+Jun%C3%ADn+Buenos+Aires",
   },
   ceremony: {
     date: "31 de octubre de 2026",
